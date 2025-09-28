@@ -1,0 +1,19 @@
+# Compiled Java classes
+*.class
+
+# Generated data files
+*.dat
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+target/
+out/
