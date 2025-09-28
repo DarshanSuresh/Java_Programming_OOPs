@@ -44,5 +44,3 @@ Collection of Java OOP programs, prepared for MCA/Computer Science reference and
 **Languages**
 
 * Java 100%
-
-Do you want me to do that?
